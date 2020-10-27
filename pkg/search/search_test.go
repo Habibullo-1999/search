@@ -17,7 +17,7 @@ func TestAll_user(t *testing.T) {
 		t.Errorf(" function All error => %v", ok)
 	}
 
-	log.Println("=======>>>>>", s)
+	log.Println("-----------", s)
 
 }
 
