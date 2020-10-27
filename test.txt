@@ -1,0 +1,22 @@
+Go was designed at Google in 2007 to improve programming productivity in an era of multicore, networked machines
+and large codebases.[23] The designers wanted to address criticism of other languages in use at Google, but keep
+their useful characteristics:[24] static typing and run-time efficiency (like C++), readability and usability (like
+Python or JavaScript),[25] high-performance networking and multiprocessing.
+The designers were primarily motivated by their shared dislike of C++.[26][27][28]
+
+Go was publicly announced in November 2009,[29] and version 1.0 was released in March 2012.[30][31] Go is widely 
+used in production at Google[32] and in many other organizations and open-source projects.
+
+Gopher mascot
+In November 2016, the Go and Go Mono fonts were released by type designers Charles Bigelow and Kris Holmes specifically
+for use by the Go project. Go is a humanist sans-serif which resembles Lucida Grande and Go Mono is monospaced. Each 
+of the fonts adhere to the WGL4 character set and were designed to be legible with a large x-height and distinct 
+letterforms. Both Go and Go Mono adhere to the DIN 1450 standard by having a slashed zero, lowercase l with a tail,
+ and an uppercase I with serifs.[33][34]
+
+In April 2018, the original logo was replaced with a stylized GO slanting right with trailing streamlines.
+However, the Gopher mascot remained the same.[35]
+
+In August 2018, the Go principal contributors published two "draft designs" for new language features,
+generics and error handling, and asked Go users to submit feedback on them.[36][37] Lack of support for 
+generic programming and the verbosity of error handling in Go 1.x had drawn considerable criticism.
